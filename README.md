@@ -1,6 +1,6 @@
 # Jupyter with Docker Compose
 
-This repository contains a simple docker-compose definition for launching the popular JupyterLab with a Tensorflow backend and TensorBoard server.
+This repository contains a simple docker-compose definition for launching the popular JupyterLab with a Tensorflow backend, Keras and TensorBoard server.
 
 ## Setting the password
 The default password is 'banana'.
